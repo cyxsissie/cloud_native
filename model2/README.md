@@ -9,6 +9,4 @@
 
 ## 结果
 
-![](.\image\web.png)
-
-![](.\image\log.png)
+见 image文件夹下的图片
